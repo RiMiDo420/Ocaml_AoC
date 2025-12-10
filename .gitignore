@@ -73,5 +73,5 @@ Temporary Items
 .history/
 
 #Don't want compiled executables
-.out
+*.out
 
