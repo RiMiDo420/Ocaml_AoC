@@ -72,3 +72,6 @@ Temporary Items
 # Local History for Visual Studio Code
 .history/
 
+#Don't want compiled executables
+.out
+
